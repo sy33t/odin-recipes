@@ -1,0 +1,69 @@
+.main-background {
+
+    background-color: #FFFACD	;
+    font-family:'Times New Roman', Times, sans-serif;
+
+
+
+}
+
+.test-color1 {
+
+    color: rgba(255, 99, 71, 0.5);
+}
+.test-color2 {
+
+    color: rgba(252, 206, 2, 0.5);
+}
+.test-color3 {
+
+    color: rgba(255, 115, 0, 0.5);
+}
+
+
+
+
+
+#lasagna {
+
+    
+
+
+width: 200px;
+height: auto;
+
+}
+
+#lasagna-background {
+
+    background-color: #FFDAB9	;
+    font-family:'Times New Roman', Times, sans-serif;
+}
+
+#scregg-background {
+
+background-color: #F0E68C;
+font-family:'Times New Roman', Times, sans-serif;
+
+
+
+}
+
+#scregg {
+    width: 150px;
+    height: auto;
+}
+
+#ftoast-background {
+
+    background-color: #FFEBCD	;
+    font-family:'Times New Roman', Times, sans-serif;
+}
+
+#ftoast {
+    width: 200px;
+    height: auto;
+
+
+
+}
